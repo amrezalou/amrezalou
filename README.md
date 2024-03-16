@@ -12,4 +12,4 @@ and ofcourse this process is not going to end.
 
 # languages
 
-\\\ Python \\\, \\\ HTML & CSS \\\, \\\ C++ \\\
+https://progress-bar.dev/91/?title=python
