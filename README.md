@@ -1,7 +1,7 @@
 # amrezalou
 
-hello there i'm Amir 15 years old newbie.
-i am in the process of learning 
+hello there i'm Amir 15 years old newbie. </br>
+i am in the process of learning, </br>
 and ofcourse this process is not going to end.
 
 ## Links
