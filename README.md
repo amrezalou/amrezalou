@@ -9,3 +9,7 @@ and ofcourse this process is not going to end.
 [Telegram](https://t.me/amrezalou) </br>
 [Github](https://github.com/amrezalou) </br>
 [Email](mailto:amrezalou@gmail.com)
+
+# languages
+
+\\\ Python \\\, \\\ HTML & CSS \\\, \\\ C++ \\\
