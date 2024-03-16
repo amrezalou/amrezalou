@@ -10,6 +10,3 @@ and ofcourse this process is not going to end.
 [Github](https://github.com/amrezalou) </br>
 [Email](mailto:amrezalou@gmail.com)
 
-# languages
-
-https://progress-bar.dev/91/?title=python
